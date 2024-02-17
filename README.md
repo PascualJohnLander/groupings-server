@@ -17,9 +17,9 @@
 # Setup
 Clone the repository:
 git clone https://github.com/PascualJohnLander/groupings-server.git
-Install dependencies:
-npm install express nodemon
-Run the server: -nodemon app.js
+, Install dependencies:
+, npm install express nodemon
+, Run the server: -nodemon app.js
 Access the API endpoints using Postman or any other API testing tool.
 # API Endpoints
 GET /api/users - get all recipes

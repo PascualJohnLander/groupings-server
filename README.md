@@ -23,5 +23,5 @@ Run the server: -nodemon app.js
 Access the API endpoints using Postman or any other API testing tool.
 # API Endpoints
 GET /api/users - get all recipes
-GET /api/users/:id get a specific recipe by id
-POST /api/users/addNewRecipe: Add a new lunch recipe
+GET /api/users/:id - get a specific recipe by id
+POST /api/users/addNewRecipe: - Add a new lunch recipe
